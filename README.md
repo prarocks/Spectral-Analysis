@@ -1,4 +1,7 @@
-# Spectral Analysis of Runoff Data (Can basically be used on anything, Monthly Bitcoin values as well)
+# Spectral Analysis of Runoff Data
+
+ Note:
+ (Can basically be used on anything, identify patterns in Stock volatility, Monthly Bitcoin values as well)
  
 This repository contains a Python script that performs **spectral analysis** on time series data using the **Fourier series method**. 
 
