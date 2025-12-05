@@ -11,4 +11,7 @@ This repository contains a Python script that performs **spectral analysis** on 
 - Plots a line spectrum (variance spectrum / periodogram).
 
 ## Important Note: 
-The time series is assumed to follow the provided equation: 
+The time series code is applicable only when:
+- Data is evenly spaced
+- Data length is not too small (ideally n ≥ 12)
+
