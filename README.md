@@ -12,4 +12,3 @@ This repository contains a Python script that performs **spectral analysis** on 
 
 ## Important Note: 
 The time series is assumed to follow the provided equation: 
-<img width="772" height="300" alt="image" src="https://github.com/user-attachments/assets/707a71c7-7e74-4bc4-9dee-abea706884d5" />
